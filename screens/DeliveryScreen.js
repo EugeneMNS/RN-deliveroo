@@ -70,7 +70,7 @@ const DeliveryScreen = () => {
 
       <SafeAreaView className="bg-white flex-row items-center space-x-5 h-28">
         <Image
-          source={{ uri: "https://links.papareact.com/wru" }}
+          source={{ uri: "https://payload.cargocollective.com/1/15/494563/13468564/roo-03_1340_c.jpg" }}
           className="h-12 w-12 bg-gray-300 p-4 rounded-full ml-5"
         />
         <View className="flex-1">
