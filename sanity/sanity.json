@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "deliveroo-clone-yt"
+    "name": "Deliveroo"
   },
   "api": {
-    "projectId": "rqh16qoz",
+    "projectId": "hohy53bd",
     "dataset": "production"
   },
   "plugins": [
